@@ -1,1 +1,2 @@
 # CurrencyConverter
+This is a simple and functional Currency Converter built using HTML, CSS, and JavaScript. It allows users to convert between different currencies in real-time using live exchange rates. The interface is user-friendly, with dropdowns for currency selection and an input field for amount conversion. JavaScript handles the API calls and conversion logic, while CSS ensures a clean and responsive design.
